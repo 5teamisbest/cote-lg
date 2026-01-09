@@ -6,3 +6,4 @@
 - [정수 삼각형](./Problem1932.java)
 - [파도반 수열](./Problem9461.java)
 - [평범한 배낭](./Problem12865.java)
+- [퇴사](./Problem14501.java)
