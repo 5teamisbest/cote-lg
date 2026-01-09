@@ -8,3 +8,4 @@
 - [평범한 배낭](./Problem12865.java)
 - [퇴사](./Problem14501.java)
 - [피보나치 수 2](./Problem2748.java)
+- [LCS](./Problem9251.java)
