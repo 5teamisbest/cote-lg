@@ -10,3 +10,4 @@
 - [피보나치 수 2](./Problem2748.java)
 - [LCS](./Problem9251.java)
 - [01타일](./Problem1904.java)
+- [동전1](./Problem2293.java)
