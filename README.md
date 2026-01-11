@@ -12,3 +12,4 @@
 - [01타일](./Problem1904.java)
 - [동전1](./Problem2293.java)
 - [스티커](./Problem9465.java)
+- [카드 구매하기](./Problem11052.java)
