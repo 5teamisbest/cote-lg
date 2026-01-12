@@ -13,3 +13,4 @@
 - [동전1](./Problem2293.java)
 - [스티커](./Problem9465.java)
 - [카드 구매하기](./Problem11052.java)
+- [가장 긴 바이토닉 부분 수열](./Problem11054.java)
