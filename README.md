@@ -19,3 +19,4 @@
 - [가장 긴 감소하는 부분 수열](./Problem11722.java)
 - [제곱수의 합](./Problem1699.java)
 - [이항 계수 2](./Problem11051.java)
+- [동전2](./Problem2294.java)
