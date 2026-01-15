@@ -21,3 +21,4 @@
 - [이항 계수 2](./Problem11051.java)
 - [동전2](./Problem2294.java)
 - [내리막 길](./Problem1520.java)
+- [신나는 함수 실행](./Problem9184.java)
