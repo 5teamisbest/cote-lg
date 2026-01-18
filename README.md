@@ -24,3 +24,4 @@
 - [신나는 함수 실행](./Problem9184.java)
 - [전깃줄](./Problem2565.java)
 - [ACM Craft](./Problem1005.java)
+- [내려가기](./Problem2096.java)
