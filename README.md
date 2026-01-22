@@ -25,6 +25,7 @@
 - [전깃줄](./Problem2565.java)
 - [ACM Craft](./Problem1005.java)
 - [내려가기](./Problem2096.java)
+- [동물원](./Problem1309.java)
 
 ### 구현
 - [삼각형과 세 변](./Problem5073.java)
